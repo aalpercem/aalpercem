@@ -1,3 +1,6 @@
+<img width="1111" alt="Screen Shot 2022-09-24 at 23 51 15" src="https://user-images.githubusercontent.com/56734989/192118414-4cc0945f-7bee-49fa-a71e-272c49358e56.png">
+
+
 <h1 align="center">Hi 👋, I'm Alper Cem</h1>
 <h3 align="center">An iOS developer from Turkey</h3>
 
