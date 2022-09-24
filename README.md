@@ -1,4 +1,5 @@
-<img width="1160" alt="image" src="https://user-images.githubusercontent.com/56734989/192118514-302d2553-ccad-4b53-9e4f-c84456c832d4.png">
+<img width="1160" alt="image" src="https://user-images.githubusercontent.com/56734989/192118548-011bc285-210f-4793-9a3a-fdd5064f0a8b.png">
+
 
 <h1 align="center">Hi 👋, I'm Alper Cem</h1>
 <h3 align="center">An iOS developer from Turkey</h3>
