@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on a fintech app
 
-- 🌱 I’m currently learning **SwiftUI, UIKit, graphQL**
+- 🌱 I’m working with **SwiftUI, UIKit, REST, GraphQL**
 
 - 📝 I sometimes write articles on [https://medium.com/@aalpercem](https://medium.com/@aalpercem)
 
 - 📫 How to reach me **cemozturk0@icloud.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
